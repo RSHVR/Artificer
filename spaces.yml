@@ -1,0 +1,9 @@
+title: Artificer - IKEA Product Extractor
+emoji: 🛋️
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.0.0
+app_file: gradio_app.py
+pinned: false
+license: mit
